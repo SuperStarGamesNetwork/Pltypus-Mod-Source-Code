@@ -1,4 +1,3 @@
-
 package cloudioa.mymod.platipusmod.entity;
 
 import cpw.mods.fml.relauncher.Side;
@@ -74,7 +73,7 @@ public class EntityPlatypus extends EntityTameable{
 	        this.texture = "/mob/Platypus.png";
 	        this.setSize(0.6F, 0.8F);
 	        this.moveSpeed = 0.3F;
-	        this.getNavigator().setAvoidsWater(true);
+	        this.getNavigator().setAvoidsWater(false);
 	        this.tasks.addTask(1, new EntityAISwimming(this));
 	        this.tasks.addTask(2, this.aiSit);
 	        this.tasks.addTask(3, new EntityAILeapAtTarget(this, 0.4F));
