@@ -1,0 +1,5 @@
+package cloudioa.mymod.platipusmod.common;
+
+public class EventHandeler {
+
+}

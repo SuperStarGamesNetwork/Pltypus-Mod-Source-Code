@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="cloudioa.mymod.platipusmod.item.ItemPlatypusbeek"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.LanguageRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IconRegister"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.EntityRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.EnumCreatureType"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.registry.RenderingRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.EntityList"/>
+<fullyQualifiedTypeName name="net.minecraft.client.model.ModelBase"/>
+<fullyQualifiedTypeName name="net.minecraft.client.model.ModelRenderer"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.passive.EntityWolf"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.passive.EntityAnimal"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.entity.RenderLiving"/>
+<fullyQualifiedTypeName name="cloudioa.mymod.platipusmod.model.platypusmodel"/>
+<fullyQualifiedTypeName name="cloudioa.mymod.platipusmod.entity.EntityPlatypus"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.EntityLiving"/>
+<fullyQualifiedTypeName name="cloudioa.mymod.platipusmod.render.RenderPlatypus"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="net.minecraft.util.MathHelper"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
+<fullyQualifiedTypeName name="cloudioa.mymod.platipusmod.common.Platipusmod"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
+<fullyQualifiedTypeName name="java.beans.EventHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.living.LivingEvent.LivingUpdateEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.player.ArrowLooseEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+<fullyQualifiedTypeName name="net.minecraft.world.World"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.player.ArrowNockEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.terraingen.DecorateBiomeEvent.Decorate.EventType"/>
+</qualifiedTypeNameHistroy>

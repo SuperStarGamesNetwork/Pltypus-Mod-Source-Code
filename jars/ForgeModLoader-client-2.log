@@ -1,0 +1,478 @@
+2013-11-25 17:23:42 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2013-11-25 17:23:42 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.6.0_65, running on Mac OS X:x86_64:10.9, installed at /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+2013-11-25 17:23:42 [FINE] [ForgeModLoader] Java classpath at launch is /Users/Perry/Desktop/bermanp/MCP/eclipse/Minecraft/bin:/Users/Perry/Desktop/bermanp/MCP/jars/bin/jinput.jar:/Users/Perry/Desktop/bermanp/MCP/jars/bin/lwjgl_util.jar:/Users/Perry/Desktop/bermanp/MCP/jars/bin/lwjgl.jar:/Users/Perry/Desktop/bermanp/MCP/jars/bin/minecraft.jar:/Users/Perry/Desktop/bermanp/MCP/lib/argo-3.2-src.jar:/Users/Perry/Desktop/bermanp/MCP/lib/bcprov-debug-jdk15on-148.jar:/Users/Perry/Desktop/bermanp/MCP/lib/asm-debug-all-4.1.jar:/Users/Perry/Desktop/bermanp/MCP/lib/guava-14.0-rc3.jar:/Users/Perry/Desktop/bermanp/MCP/lib/scala-library.jar
+2013-11-25 17:23:42 [FINE] [ForgeModLoader] Java library path at launch is /Users/Perry/Desktop/bermanp/MCP/jars/bin/natives:/Users/Perry/Desktop/bermanp/MCP/jars/bin/natives:/Users/Perry/Desktop/bermanp/MCP/jars/bin/natives
+2013-11-25 17:23:42 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] All core mods are successfully located
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Discovering coremods
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Found library file argo-small-3.2.jar present and correct in lib dir
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Found library file guava-14.0-rc3.jar present and correct in lib dir
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Found library file asm-all-4.1.jar present and correct in lib dir
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Found library file bcprov-jdk15on-148.jar present and correct in lib dir
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Found library file deobfuscation_data_1.5.2.zip present and correct in lib dir
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Found library file scala-library.jar present and correct in lib dir
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Running coremod plugins
+2013-11-25 17:23:42 [FINEST] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-11-25 17:23:43 [FINEST] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-11-25 17:23:43 [FINEST] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-11-25 17:23:43 [FINEST] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-11-25 17:23:43 [FINEST] [ForgeModLoader] Validating minecraft
+2013-11-25 17:23:43 [FINEST] [ForgeModLoader] Minecraft validated, launching...
+2013-11-25 17:23:44 [INFO] [STDOUT] 229 recipes
+2013-11-25 17:23:44 [INFO] [STDOUT] 27 achievements
+2013-11-25 17:23:44 [INFO] [Minecraft-Client] Setting user: Player856
+2013-11-25 17:23:44 [INFO] [STDOUT] (Session ID is -)
+2013-11-25 17:23:44 [INFO] [STDERR] Client asked for parameter: server
+2013-11-25 17:23:44 [INFO] [Minecraft-Client] LWJGL Version: 2.4.2
+2013-11-25 17:23:44 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-11-25 17:23:44 [INFO] [STDOUT] MinecraftForge v7.8.1.738 Initialized
+2013-11-25 17:23:44 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+2013-11-25 17:23:44 [INFO] [STDOUT] Replaced 85 ore recipies
+2013-11-25 17:23:44 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-11-25 17:23:44 [INFO] [ForgeModLoader] Reading custom logging properties from /Users/Perry/Desktop/bermanp/MCP/jars/config/logging.properties
+2013-11-25 17:23:44 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Found a minecraft related directory at /Users/Perry/Desktop/bermanp/MCP/eclipse/Minecraft/bin, examining for mod candidates
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/bin/jinput.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/bin/lwjgl_util.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/bin/lwjgl.jar
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/Desktop/bermanp/MCP/jars/bin/minecraft.jar, examining for mod candidates
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/Desktop/bermanp/MCP/lib/argo-3.2-src.jar, examining for mod candidates
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/Desktop/bermanp/MCP/lib/bcprov-debug-jdk15on-148.jar, examining for mod candidates
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/Desktop/bermanp/MCP/lib/asm-debug-all-4.1.jar, examining for mod candidates
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/lib/guava-14.0-rc3.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/lib/scala-library.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/lib/argo-small-3.2.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/lib/guava-14.0-rc3.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/lib/asm-all-4.1.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/lib/bcprov-jdk15on-148.jar
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/lib/deobfuscation_data_1.5.2.zip
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Skipping known library file /Users/Perry/Desktop/bermanp/MCP/jars/lib/scala-library.jar
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-11-25 17:23:45 [INFO] [ForgeModLoader] Searching /Users/Perry/Desktop/bermanp/MCP/jars/mods for mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Found a candidate mod directory Platypusmod
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Examining directory bin for potential mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] No mcmod.info file found in directory bin
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.Armor
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.block
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.common
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.common.Biome
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Identified an FMLMod type mod cloudioa.mymod.platipusmod.common.Platipusmod
+2013-11-25 17:23:45 [FINEST] [Platypus Mod] Parsed dependency info : [] [] []
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.entity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.item
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.model
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cloudioa.mymod.platipusmod.render
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package mods
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package mods.Platypusmod
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package mods.Platypusmod.textures
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package mods.Platypusmod.textures.blocks
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package mods.Platypusmod.textures.items
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity.render
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.texturepacks
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Examining file minecraft.jar for potential mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] The mod container minecraft.jar appears to be missing an mcmod.info file
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Examining file argo-3.2-src.jar for potential mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] The mod container argo-3.2-src.jar appears to be missing an mcmod.info file
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Examining file bcprov-debug-jdk15on-148.jar for potential mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] The mod container bcprov-debug-jdk15on-148.jar appears to be missing an mcmod.info file
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Examining directory Platypusmod for potential mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] No mcmod.info file found in directory Platypusmod
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package textures
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package textures.blocks
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Recursing into package textures.items
+2013-11-25 17:23:45 [INFO] [ForgeModLoader] Forge Mod Loader has identified 4 mods to load
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Received a system property request ''
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Reloading logging properties from /Users/Perry/Desktop/bermanp/MCP/jars/config/logging.properties
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-11-25 17:23:45 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-11-25 17:23:45 [INFO] [mcp] Activating mod mcp
+2013-11-25 17:23:45 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-11-25 17:23:45 [INFO] [FML] Activating mod FML
+2013-11-25 17:23:45 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-11-25 17:23:45 [INFO] [Forge] Activating mod Forge
+2013-11-25 17:23:45 [FINE] [Platypus Mod] Enabling mod Platypus Mod
+2013-11-25 17:23:45 [FINE] [Platypus Mod] Mod Logging channel Platypus Mod configured at default level.
+2013-11-25 17:23:45 [INFO] [Platypus Mod] Activating mod Platypus Mod
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-11-25 17:23:45 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Mod sorting data
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] 	Platypus Mod(Platypus Mod:1.7.4_2 beta): bin ()
+2013-11-25 17:23:45 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-11-25 17:23:45 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-11-25 17:23:45 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-11-25 17:23:45 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-11-25 17:23:45 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-11-25 17:23:45 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-11-25 17:23:45 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
+2013-11-25 17:23:45 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-11-25 17:23:45 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-11-25 17:23:45 [FINEST] [Platypus Mod] Sending event FMLConstructionEvent to mod Platypus Mod
+2013-11-25 17:23:45 [FINE] [fml.ItemTracker] Adding item cloudioa.mymod.platipusmod.item.ItemPlatypusbeek(1256) owned by Platypus Mod
+2013-11-25 17:23:45 [FINE] [fml.ItemTracker] Adding item cloudioa.mymod.platipusmod.Armor.PlatypusBoots(1259) owned by Platypus Mod
+2013-11-25 17:23:45 [FINE] [fml.ItemTracker] Adding item cloudioa.mymod.platipusmod.Armor.PlatypusHelmit(1257) owned by Platypus Mod
+2013-11-25 17:23:45 [FINE] [fml.ItemTracker] Adding item cloudioa.mymod.platipusmod.Armor.PlatypusChestplate(1258) owned by Platypus Mod
+2013-11-25 17:23:45 [SEVERE] [ForgeModLoader] The mod Platypus Mod has attempted to register an entity ID 2 which is already reserved. This could cause severe problems
+2013-11-25 17:23:45 [WARNING] [ForgeModLoader] The mod FMLMod:Platypus Mod{1.7.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-11-25 17:23:45 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(160) owned by Platypus Mod
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Platypus Mod
+2013-11-25 17:23:45 [FINEST] [Platypus Mod] Sent event FMLConstructionEvent to mod Platypus Mod
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] Mod signature data
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
+2013-11-25 17:23:45 [FINE] [ForgeModLoader] 	Platypus Mod(Platypus Mod:1.7.4_2 beta): bin (NO VALID CERTIFICATE FOUND)
+2013-11-25 17:23:45 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-11-25 17:23:45 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-11-25 17:23:45 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-11-25 17:23:45 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-11-25 17:23:45 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-11-25 17:23:45 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-11-25 17:23:45 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-11-25 17:23:45 [FINEST] [Platypus Mod] Sending event FMLPreInitializationEvent to mod Platypus Mod
+2013-11-25 17:23:45 [FINEST] [Platypus Mod] Sent event FMLPreInitializationEvent to mod Platypus Mod
+2013-11-25 17:23:46 [INFO] [STDOUT] 
+2013-11-25 17:23:46 [INFO] [STDOUT] Starting up SoundSystem...
+2013-11-25 17:23:46 [INFO] [STDOUT] Initializing LWJGL OpenAL
+2013-11-25 17:23:46 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2013-11-25 17:23:46 [INFO] [STDOUT] OpenAL initialized.
+2013-11-25 17:23:46 [INFO] [STDOUT] 
+2013-11-25 17:23:48 [INFO] [ForgeModLoader] Forge Mod Loader has detected an older LWJGL version, new advanced texture animation features are disabled
+2013-11-25 17:23:48 [INFO] [ForgeModLoader] Not using advanced OpenGL 4.3 advanced capability for animations : OpenGL 4.3 is not available
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/blockRedstone.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/dragonEgg.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/furnace_front_lit.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/hellrock.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lightgem.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/netherquartz.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/oreRedstone.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2013-11-25 17:23:48 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2013-11-25 17:23:48 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/Platypus Chestplate.png, but that file does not exist. Ignoring.
+2013-11-25 17:23:48 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/Platypus Helmit.png, but that file does not exist. Ignoring.
+2013-11-25 17:23:48 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/Platypus Boots.png, but that file does not exist. Ignoring.
+2013-11-25 17:23:49 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2013-11-25 17:23:49 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2013-11-25 17:23:49 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sending event FMLInitializationEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sent event FMLInitializationEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-11-25 17:23:49 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-11-25 17:23:49 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-11-25 17:23:49 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sending event IMCEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sent event IMCEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sending event FMLPostInitializationEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sent event FMLPostInitializationEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-11-25 17:23:49 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-11-25 17:23:49 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sending event FMLLoadCompleteEvent to mod Platypus Mod
+2013-11-25 17:23:49 [FINEST] [Platypus Mod] Sent event FMLLoadCompleteEvent to mod Platypus Mod
+2013-11-25 17:23:49 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 4 mods
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/blockRedstone.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/dragonEgg.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/furnace_front_lit.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/hellrock.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lightgem.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/netherquartz.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/oreRedstone.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2013-11-25 17:23:50 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2013-11-25 17:23:50 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/Platypus Chestplate.png, but that file does not exist. Ignoring.
+2013-11-25 17:23:51 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/Platypus Helmit.png, but that file does not exist. Ignoring.
+2013-11-25 17:23:51 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/Platypus Boots.png, but that file does not exist. Ignoring.
+2013-11-25 17:23:51 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2013-11-25 17:23:51 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2013-11-25 17:23:56 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.5.2
+2013-11-25 17:23:56 [INFO] [Minecraft-Server] Generating keypair
+2013-11-25 17:23:56 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-11-25 17:23:56 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-11-25 17:23:56 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-11-25 17:23:56 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-11-25 17:23:56 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-11-25 17:23:56 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-11-25 17:23:56 [FINEST] [Platypus Mod] Sending event FMLServerAboutToStartEvent to mod Platypus Mod
+2013-11-25 17:23:56 [FINEST] [Platypus Mod] Sent event FMLServerAboutToStartEvent to mod Platypus Mod
+2013-11-25 17:23:56 [FINE] [fml.ItemTracker] The difference set is equal
+2013-11-25 17:23:56 [INFO] [ForgeModLoader] Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@a0c017d)
+2013-11-25 17:23:56 [INFO] [ForgeModLoader] Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@a0c017d)
+2013-11-25 17:23:56 [INFO] [ForgeModLoader] Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@a0c017d)
+2013-11-25 17:23:56 [INFO] [Minecraft-Server] Preparing start region for level 0
+2013-11-25 17:23:56 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-11-25 17:23:56 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-11-25 17:23:56 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-11-25 17:23:56 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-11-25 17:23:56 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-11-25 17:23:56 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-11-25 17:23:56 [FINEST] [Platypus Mod] Sending event FMLServerStartingEvent to mod Platypus Mod
+2013-11-25 17:23:56 [FINEST] [Platypus Mod] Sent event FMLServerStartingEvent to mod Platypus Mod
+2013-11-25 17:23:56 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-11-25 17:23:56 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-11-25 17:23:56 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-11-25 17:23:56 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-11-25 17:23:56 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-11-25 17:23:56 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-11-25 17:23:56 [FINEST] [Platypus Mod] Sending event FMLServerStartedEvent to mod Platypus Mod
+2013-11-25 17:23:56 [FINEST] [Platypus Mod] Sent event FMLServerStartedEvent to mod Platypus Mod
+2013-11-25 17:23:56 [INFO] [STDOUT] loading single player
+2013-11-25 17:23:56 [INFO] [Minecraft-Server] Player856[/127.0.0.1:0] logged in with entity id 133 at (233.65773725309498, 70.0, 490.188299860368)
+2013-11-25 17:24:15 [INFO] [Minecraft-Server] Saving and pausing game...
+2013-11-25 17:24:15 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2013-11-25 17:24:15 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2013-11-25 17:24:15 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2013-11-25 17:25:29 [INFO] [Minecraft-Server] Saving and pausing game...
+2013-11-25 17:25:29 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2013-11-25 17:25:29 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2013-11-25 17:25:29 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2013-11-25 17:25:30 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2013-11-25 17:25:30 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2013-11-25 17:25:30 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
+2013-11-25 17:25:30 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
+2013-11-25 17:25:30 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2013-11-25 17:25:30 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2013-11-25 17:25:30 [FINEST] [Platypus Mod] Sending event FMLServerStoppingEvent to mod Platypus Mod
+2013-11-25 17:25:30 [FINEST] [Platypus Mod] Sent event FMLServerStoppingEvent to mod Platypus Mod
+2013-11-25 17:25:30 [INFO] [Minecraft-Server] Stopping server
+2013-11-25 17:25:30 [INFO] [Minecraft-Server] Saving players
+2013-11-25 17:25:30 [INFO] [Minecraft-Server] Saving worlds
+2013-11-25 17:25:30 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2013-11-25 17:25:30 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2013-11-25 17:25:30 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2013-11-25 17:25:30 [INFO] [ForgeModLoader] Unloading dimension 0
+2013-11-25 17:25:30 [INFO] [ForgeModLoader] Unloading dimension -1
+2013-11-25 17:25:30 [INFO] [ForgeModLoader] Unloading dimension 1
+2013-11-25 17:25:30 [FINEST] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2013-11-25 17:25:30 [FINEST] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2013-11-25 17:25:30 [FINEST] [FML] Sending event FMLServerStoppedEvent to mod FML
+2013-11-25 17:25:30 [FINEST] [FML] Sent event FMLServerStoppedEvent to mod FML
+2013-11-25 17:25:30 [FINEST] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2013-11-25 17:25:30 [FINEST] [Forge] Sent event FMLServerStoppedEvent to mod Forge
+2013-11-25 17:25:30 [FINEST] [Platypus Mod] Sending event FMLServerStoppedEvent to mod Platypus Mod
+2013-11-25 17:25:30 [FINEST] [Platypus Mod] Sent event FMLServerStoppedEvent to mod Platypus Mod
+2013-11-25 17:25:32 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.5.2
+2013-11-25 17:25:32 [INFO] [Minecraft-Server] Generating keypair
+2013-11-25 17:25:32 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-11-25 17:25:32 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-11-25 17:25:32 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-11-25 17:25:32 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-11-25 17:25:32 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-11-25 17:25:32 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-11-25 17:25:32 [FINEST] [Platypus Mod] Sending event FMLServerAboutToStartEvent to mod Platypus Mod
+2013-11-25 17:25:32 [FINEST] [Platypus Mod] Sent event FMLServerAboutToStartEvent to mod Platypus Mod
+2013-11-25 17:25:32 [FINE] [fml.ItemTracker] The difference set is equal
+2013-11-25 17:25:32 [INFO] [ForgeModLoader] Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@743ee38c)
+2013-11-25 17:25:32 [INFO] [ForgeModLoader] Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@743ee38c)
+2013-11-25 17:25:32 [INFO] [ForgeModLoader] Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@743ee38c)
+2013-11-25 17:25:32 [INFO] [Minecraft-Server] Preparing start region for level 0
+2013-11-25 17:25:32 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-11-25 17:25:32 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-11-25 17:25:32 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-11-25 17:25:32 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-11-25 17:25:32 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-11-25 17:25:32 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-11-25 17:25:32 [FINEST] [Platypus Mod] Sending event FMLServerStartingEvent to mod Platypus Mod
+2013-11-25 17:25:32 [FINEST] [Platypus Mod] Sent event FMLServerStartingEvent to mod Platypus Mod
+2013-11-25 17:25:32 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-11-25 17:25:32 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-11-25 17:25:32 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-11-25 17:25:32 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-11-25 17:25:32 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-11-25 17:25:32 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-11-25 17:25:32 [FINEST] [Platypus Mod] Sending event FMLServerStartedEvent to mod Platypus Mod
+2013-11-25 17:25:32 [FINEST] [Platypus Mod] Sent event FMLServerStartedEvent to mod Platypus Mod
+2013-11-25 17:25:32 [INFO] [STDOUT] loading single player
+2013-11-25 17:25:32 [INFO] [Minecraft-Server] Player856[/127.0.0.1:0] logged in with entity id 486 at (233.51327627941595, 70.0, 490.0423072940713)
+2013-11-25 17:25:33 [INFO] [Minecraft-Server] Saving and pausing game...
+2013-11-25 17:25:33 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2013-11-25 17:25:33 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2013-11-25 17:25:33 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2013-11-25 17:25:51 [INFO] [Minecraft-Server] Saving and pausing game...
+2013-11-25 17:25:51 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2013-11-25 17:25:51 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2013-11-25 17:25:51 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2013-11-25 17:25:59 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2013-11-25 17:25:59 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2013-11-25 17:25:59 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
+2013-11-25 17:25:59 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
+2013-11-25 17:25:59 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2013-11-25 17:25:59 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2013-11-25 17:25:59 [FINEST] [Platypus Mod] Sending event FMLServerStoppingEvent to mod Platypus Mod
+2013-11-25 17:25:59 [FINEST] [Platypus Mod] Sent event FMLServerStoppingEvent to mod Platypus Mod
+2013-11-25 17:25:59 [INFO] [Minecraft-Server] Stopping server
+2013-11-25 17:25:59 [INFO] [Minecraft-Server] Saving players
+2013-11-25 17:25:59 [INFO] [Minecraft-Server] Saving worlds
+2013-11-25 17:25:59 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2013-11-25 17:25:59 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2013-11-25 17:25:59 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2013-11-25 17:25:59 [INFO] [ForgeModLoader] Unloading dimension 0
+2013-11-25 17:25:59 [INFO] [ForgeModLoader] Unloading dimension -1
+2013-11-25 17:25:59 [INFO] [ForgeModLoader] Unloading dimension 1
+2013-11-25 17:25:59 [FINEST] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2013-11-25 17:25:59 [FINEST] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2013-11-25 17:25:59 [FINEST] [FML] Sending event FMLServerStoppedEvent to mod FML
+2013-11-25 17:25:59 [FINEST] [FML] Sent event FMLServerStoppedEvent to mod FML
+2013-11-25 17:25:59 [FINEST] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2013-11-25 17:25:59 [FINEST] [Forge] Sent event FMLServerStoppedEvent to mod Forge
+2013-11-25 17:25:59 [FINEST] [Platypus Mod] Sending event FMLServerStoppedEvent to mod Platypus Mod
+2013-11-25 17:25:59 [FINEST] [Platypus Mod] Sent event FMLServerStoppedEvent to mod Platypus Mod
+2013-11-25 17:26:00 [INFO] [Minecraft-Client] Stopping!
+2013-11-25 17:26:00 [INFO] [STDOUT] 
+2013-11-25 17:26:00 [INFO] [STDOUT] SoundSystem shutting down...
+2013-11-25 17:26:00 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
+2013-11-25 17:26:00 [INFO] [STDOUT] 

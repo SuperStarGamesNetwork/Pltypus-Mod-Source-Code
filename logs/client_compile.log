@@ -1,0 +1,24 @@
+src/minecraft/net/minecraft/tileentity/TileEntityFurnace.java:23: warning: [deprecation] net.minecraftforge.common.ISidedInventory in net.minecraftforge.common has been deprecated
+public class TileEntityFurnace extends TileEntity implements ISidedInventory, net.minecraftforge.common.ISidedInventory
+                                                                                                       ^
+src/minecraft/net/minecraft/item/Item.java:1118: warning: [deprecation] net.minecraftforge.common.IArmorTextureProvider in net.minecraftforge.common has been deprecated
+        return isArmorProvider ? ((IArmorTextureProvider)this).getArmorTextureFile(stack) : null;
+                                   ^
+src/minecraft/net/minecraft/tileentity/TileEntityFurnace.java:502: warning: [deprecation] getSizeInventorySide(net.minecraftforge.common.ForgeDirection) in net.minecraftforge.common.ISidedInventory has been deprecated
+    public int getSizeInventorySide(ForgeDirection side)
+               ^
+src/minecraft/net/minecraft/tileentity/TileEntityFurnace.java:485: warning: [deprecation] getStartInventorySide(net.minecraftforge.common.ForgeDirection) in net.minecraftforge.common.ISidedInventory has been deprecated
+    public int getStartInventorySide(ForgeDirection side)
+               ^
+src/minecraft/cloudioa/mymod/platipusmod/common/Platipusmod.java:81: warning: [deprecation] registerBlock(net.minecraft.block.Block) in cpw.mods.fml.common.registry.GameRegistry has been deprecated
+GameRegistry.registerBlock(BlueGrass);
+            ^
+src/minecraft/net/minecraft/src/ModLoader.java:632: warning: [deprecation] registerBlock(net.minecraft.block.Block) in cpw.mods.fml.common.registry.GameRegistry has been deprecated
+        GameRegistry.registerBlock(block);
+                    ^
+src/minecraft/net/minecraft/src/ModLoader.java:643: warning: [deprecation] registerBlock(net.minecraft.block.Block,java.lang.Class<? extends net.minecraft.item.ItemBlock>) in cpw.mods.fml.common.registry.GameRegistry has been deprecated
+        GameRegistry.registerBlock(block, itemclass);
+                    ^
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+7 warnings
